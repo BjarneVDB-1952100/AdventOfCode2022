@@ -18,3 +18,4 @@ for i in listElfs:
     listElfs[listElfs.index(max(listElfs))] = 0
     counter += 1
 print(result)
+file1.close()
